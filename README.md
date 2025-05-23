@@ -44,15 +44,15 @@ To run this project locally, follow these steps:
    cd FindThatJam
    ```
 
-2.**Install Dependencies**
-  ```bash
-  npm install
-  ```
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
 
-3.**Run the development server**
- ```bash
-npm run dev
-```
+3. **Run the development server**
+  ```bash
+  npm run dev
+  ```
 
 Open http://localhost:5173 in your browser to see the app in action.
 
