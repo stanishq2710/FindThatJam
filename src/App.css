@@ -1,3 +1,9 @@
+body {
+  background-color: #121212; /* dark gray/black */
+  color: white;
+  margin: 0;
+  font-family: sans-serif;
+}
 #root {
   max-width: 1280px;
   margin: 0 auto;
